@@ -1,0 +1,136 @@
+<div>
+    <a href="#" style="text-decoration: none; padding: 0.5rem; text-align: center;">
+        <div style="font-family: 'Felipa-Regular'; font-size: 2.5rem;">Shakespeare in Bengal</div>
+        <div style="font-family: 'serif'; font-size: clamp(1rem, 2vw + .2rem, 1.2rem);">A Multimedia Archive of Shakespeare's Legacy in Bengal</div>
+    </a>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg sticky-top bottom-shadow mb-5 bg-body-primary rounded">
+        <div class="container-xl">
+            <a class="navbar-brand d-block d-lg-none" href="#">SiB</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <!-- Left Menu -->
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item dropdown px-1">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Performance
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">Performance Interviews</a></li>
+                            <li><a class="dropdown-item" href="#">Notes</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown px-1">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Pedagogy
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="{{ site.url }}/jekyll/{{ 'jekyll' | first | slugify }}/index.html">Pedagogy Interviews</a></li>
+                            <li><a class="dropdown-item" href="#">Notes</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown px-1">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Exhibit
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">Videos</a></li>
+                            <li><a class="dropdown-item" href="#">Images</a></li>
+                            <li><a class="dropdown-item" href="#">Books and Essays</a></li>
+                            <li><a class="dropdown-item" href="#">Audio</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item px-1">
+                        <a class="nav-link" href="#">Student Productions</a>
+                    </li>
+                    <li class="nav-item px-1">
+                        <a class="nav-link" href="#">Press</a>
+                    </li>
+                    <li class="nav-item px-1">
+                        <a class="nav-link" href="#">About</a>
+                    </li>
+                </ul>
+
+                <!-- Theme Toggle Button (for desktop) -->
+                <div class="dropdown nav-item d-none d-lg-block me-2">
+                    <button class="btn btn-link nav-link px-0 px-lg-2 py-2 dropdown-toggle"
+                            id="bd-theme-desktop"
+                            type="button"
+                            aria-expanded="false"
+                            data-bs-toggle="dropdown"
+                            aria-label="Toggle theme">
+                        <svg class="bi theme-icon-active" width="1em" height="1em"><use href="#circle-half"/></svg>
+                    </button>
+
+                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="bd-theme-desktop">
+                        <li>
+                            <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light">
+                                <svg class="bi me-2 opacity-50" width="1em" height="1em"><use href="#sun-fill"/></svg>
+                                Light    
+                            </button>
+                        </li>
+                        <li>
+                            <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark">
+                                <svg class="bi me-2 opacity-50" width="1em" height="1em"><use href="#moon-stars-fill"/></svg>
+                                Dark
+                            </button>
+                        </li>
+                        <li>
+                            <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto">
+                                <svg class="bi me-2 opacity-50" width="1em" height="1em"><use href="#circle-half"/></svg>
+                                Auto
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Search -->
+                <form class="d-flex me-3" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search the archive..." aria-label="Search">
+                    <button class="btn" type="submit">
+                        <i class="bi bi-search"></i>
+                    </button>
+                </form>
+
+                <!-- Theme Toggle Button (for mobile) -->
+                <div class="dropdown d-block d-lg-none">
+                    <button class="btn btn-link nav-link px-0 px-lg-2 py-2 dropdown-toggle d-flex align-items-center"
+                            id="bd-theme-mobile"
+                            type="button"
+                            aria-expanded="false"
+                            data-bs-toggle="dropdown"
+                            aria-label="Toggle theme">
+                        <svg class="bi theme-icon-active" width="1em" height="1em"><use href="#circle-half"/></svg>
+                        <span class="d-lg-none ms-2" id="bd-theme-text">Toggle theme</span>
+                    </button>
+
+                    <ul class="dropdown-menu" aria-labelledby="bd-theme-mobile">
+                        <li>
+                            <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light">
+                                <svg class="bi me-2 opacity-50" width="1em" height="1em"><use href="#sun-fill"/></svg>
+                                Light
+                            </button>
+                        </li>
+                        <li>
+                            <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark">
+                                <svg class="bi me-2 opacity-50" width="1em" height="1em"><use href="#moon-stars-fill"/></svg>
+                                Dark
+                            </button>
+                        </li>
+                        <li>
+                            <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto">
+                                <svg class="bi me-2 opacity-50" width="1em" height="1em"><use href="#circle-half"/></svg>
+                                Auto
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </nav>
+</div>

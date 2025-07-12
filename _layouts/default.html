@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+    <head>
+        {% include head.html %}
+    </head>
+    <body class="d-flex flex-column h-100">
+        <div id="skip-to-content" class="visually-hidden-focusable"><a href="#maincontent">Skip to main content</a></div>
+        {% include header.html %}
+        <main id="maincontent" role="main" aria-label="Content" class="flex-shrink-0">
+        {{ content }}
+        </main>
+        {% include footer.html %}
+        {% include foot.html %}
+    </body>
+</html>
