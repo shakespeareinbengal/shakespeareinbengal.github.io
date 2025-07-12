@@ -28,9 +28,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+timezone: Asia/Kolkata
 
 # Jekyll Category Pages settings
-paginate: 1
+paginate: 5
 
 # Build settings
 # theme: minima
