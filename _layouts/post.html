@@ -9,7 +9,23 @@
         <main id="maincontent" role="main" aria-label="Content" class="flex-shrink-0"></main>
             <div class="container mx-9 my-3">
                 {% if page.title %}<h2 style="text-align: left;"><b>{{ page.title }}</b></h2>{% endif %}
-                {% if page.date %}<h5 style="text-align: left;"><b>{{ page.date }}</b></h2>{% endif %}
+
+                <!-- Assign date of last update with proper formatting -->
+                {% if page.date %}
+                {% assign d = page.date | date: "%-d" %}
+                {% assign month = page.date | date: "%B" %}
+                {% assign year = page.date | date: "%Y" %}
+                {% case d %}
+                    {% when "1" or "21" or "31" %}{% assign suffix = "st" %}
+                    {% when "2" or "22" %}{% assign suffix = "nd" %}
+                    {% when "3" or "23" %}{% assign suffix = "rd" %}
+                    {% else %}{% assign suffix = "th" %}
+                {% endcase %}
+                {% assign formatted_day = d | append: suffix %}
+                <h5 style="text-align: left;"><b>Last updated on {{ formatted_day }} {{ month }} {{ year }}</b></h5>
+                {% endif %}
+
+                <hr>
                 {{ content }}
             </div>
         </main>
