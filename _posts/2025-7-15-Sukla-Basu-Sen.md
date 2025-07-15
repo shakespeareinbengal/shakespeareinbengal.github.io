@@ -24,7 +24,7 @@ B.A- 1971 & M.A- 1973
 
 
 
-Details of institutions concerned –
+Details of institutions concerned -
 
 
 
@@ -36,7 +36,7 @@ When did your first encounter with Shakespeare take place (at school or college)
 
 
 
-Class 9 – The Merchant of Venice.
+Class 9 - The Merchant of Venice.
 
 
 
@@ -64,9 +64,9 @@ What traits of any particular teacher impressed you most?
 
 
 
-Prof Bhattacharya’s oratory, close analysis of particular scenes and reifying the dramas of the play through elocution and deep sympathy shown towards characters in the plays.
+Prof Bhattacharya's oratory, close analysis of particular scenes and reifying the dramas of the play through elocution and deep sympathy shown towards characters in the plays.
 
-Prof. Dasgupta used prevalent theories of literature, especially theories applicable to Renaissance drama in his readings of the plays. His lectures were not as interesting to the general students as professor Bhattacharya’s was but the serious student sat completely mesmerized in his lectures. His expectations from the students’ reception of the text were extremely high and students were hard put to fulfil these. Prof. Bhattacharya, on the other hand could reach out to all categories of students, anticipating as if by magic, each possible query from the listeners.
+Prof. Dasgupta used prevalent theories of literature, especially theories applicable to Renaissance drama in his readings of the plays. His lectures were not as interesting to the general students as professor Bhattacharya's was but the serious student sat completely mesmerized in his lectures. His expectations from the students' reception of the text were extremely high and students were hard put to fulfil these. Prof. Bhattacharya, on the other hand could reach out to all categories of students, anticipating as if by magic, each possible query from the listeners.
 
 
 
@@ -114,7 +114,7 @@ To a certain extent as the emphasis was always on internal poetics.
 
 
 
-Were Shakespeare’s contemporary dramatists given the same amount of importance in the classroom?
+Were Shakespeare's contemporary dramatists given the same amount of importance in the classroom?
 
 
 
