@@ -6,6 +6,8 @@ tags: []
 categories: ['performances', 'performance interviews']
 ---
 
+<img src="https://drive.google.com/file/d/1I0vY5An2woxuZKIFnKx6xx0saJzB3qMc/view?usp=drive_link" class="rounded float-left" alt="Blurry page with images related to Bibhash Chakraborty's production">
+
 **Bibhash Chakraborty is a Bengali theatre personality.**
 
 *Interviewed by Dr. Paromita Chakravarti and Sri Arunava Banerjee.*
