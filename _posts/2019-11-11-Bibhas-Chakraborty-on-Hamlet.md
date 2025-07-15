@@ -6,13 +6,13 @@ tags: []
 categories: ['performances', 'performance interviews']
 ---
 
-<img src="https://drive.google.com/thumbnail?id=1I0vY5An2woxuZKIFnKx6xx0saJzB3qMc" class="rounded float-left" alt="Blurry page with images related to Bibhash Chakraborty's production">
-
 **Bibhash Chakraborty is a Bengali theatre personality.**
 
 *Interviewed by Dr. Paromita Chakravarti and Sri Arunava Banerjee.*
 
 **How did the idea for Hamlet come to you?**
+
+<img src="https://drive.google.com/thumbnail?id=1I0vY5An2woxuZKIFnKx6xx0saJzB3qMc" class="rounded float-left" alt="Blurry page with images related to Bibhash Chakraborty's production">
 
 Everyone in theatre wants to do the famous Shakespearean plays. But first one has to see if one is ready for it, if one’s group is ready for it. But I thought, since my career is nearing its end, why not go ahead and do a Shakespeare play and fulfil my wish. Of all the Shakespeare plays that I have read and seen, I have been drawn to *Hamlet* the most. And it is a singularly difficult Shakespeare play since it doesn’t have sub-plots. I also liked *Macbeth*. When I was younger, I had seen productions of both plays as well as film versions as those by Olivier, Polanski, Kurosawa etc.
 
