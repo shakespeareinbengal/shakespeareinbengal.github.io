@@ -22,7 +22,7 @@
                     {% else %}{% assign suffix = "th" %}
                 {% endcase %}
                 {% assign formatted_day = day | append: suffix %}
-                <h5 style="text-align: left;"><b>Posted on {{ formatted_day }} {{ month }} {{ year }}</b></h5>
+                <h5 style="text-align: left;"><b>{{ formatted_day }} {{ month }} {{ year }}</b></h5>
                 {% endif %}
 
                 <hr>
