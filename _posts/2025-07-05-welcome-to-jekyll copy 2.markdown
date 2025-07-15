@@ -1,8 +1,8 @@
 ---
-layout: default
-title:  "Welcome to Jekyll!"
-date:   2025-07-05 07:50:07 +0530
-categories: [Category Pages Plugin, jekyll]
+layout: post
+title:  "Welcome to Pedagogy Interviews!"
+date:   2025-07-05
+categories: ['pedagogy', 'pedagogy interviews']
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
