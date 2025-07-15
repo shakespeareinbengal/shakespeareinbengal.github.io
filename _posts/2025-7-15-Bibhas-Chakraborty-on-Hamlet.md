@@ -82,4 +82,4 @@ The setting in the pub made it easy for people to interact, but they also sip th
 
 This is impossible to say. I would say it was in my blood. My family has been very heavily involved with the cultural milieu in Sylhet. I was naturally drawn to theatre. I cannot pinpoint a date. But I suppose I got to think about theatre seriously after joining Presidency College. That period, between 1953 and 1957, is when you could say I became seriously involved with theatre.
 
-_(Last updated 15th July 2025)_
+_(Last updated on 15th July 2025)_
