@@ -86,4 +86,4 @@ We would discuss it but Shakespeare wasn’t really taught to us. Instead, we fo
 
 Interestingly I cannot recall doing any Shakespearean play though it would be very much feasible. I have done Pushkin, Ibsen and Chekhov, but no Shakespeare.
 
-(Last updated on 15th July 2025)
+_(Last updated on 15th July 2025)_
