@@ -7,9 +7,7 @@ categories: ['performances', 'performance interviews']
 ---
 
 ![Blurry page with images related to Bibhash Chakraborty's production](https://drive.google.com/thumbnail?id=1I0vY5An2woxuZKIFnKx6xx0saJzB3qMc)
-**Bibhash Chakraborty is a Bengali theatre personality.**
-
-*Interviewed by Dr. Paromita Chakravarti and Sri Arunava Banerjee.*
+**Bibhash Chakraborty is a Bengali theatre personality.**\n*Interviewed by Dr. Paromita Chakravarti and Sri Arunava Banerjee.*
 
 **How did the idea for Hamlet come to you?**
 
