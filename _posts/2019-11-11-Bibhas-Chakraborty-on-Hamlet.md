@@ -6,7 +6,7 @@ tags: []
 categories: ['performances', 'performance interviews']
 ---
 
-![Blurry page with images related to Bibhash Chakraborty's production](https://1drv.ms/i/c/cb0748999723997f/IQTJS4dqmSOkSrzztlmKOsqfAROuUbbXpoAb3P38iVRp2uA?width=200&height=300){: style="float: left; margin-right: 1em;"}
+![Blurry page with images related to Bibhash Chakraborty's production](https://1drv.ms/i/c/cb0748999723997f/IQTJS4dqmSOkSrzztlmKOsqfAROuUbbXpoAb3P38iVRp2uA?width=200&height=300){: style="float: right; margin-left: 1em;"}
 
 **Bibhash Chakraborty is a Bengali theatre personality.**
 
