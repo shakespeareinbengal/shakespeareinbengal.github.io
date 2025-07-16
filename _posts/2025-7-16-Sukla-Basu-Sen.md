@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sukla Basu (Sen)
-date: 15/7/2025
+date: 16/7/2025
 tags: []
 categories: ['pedagogy', 'pedagogy interviews']
 ---
