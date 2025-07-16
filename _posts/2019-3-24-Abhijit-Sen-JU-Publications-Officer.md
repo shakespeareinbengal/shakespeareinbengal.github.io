@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Abhijit Sen (JU Publications Officer)
-date: 16/7/2025
+date: 24/3/2019
 tags: []
 categories: ['pedagogy', 'pedagogy interviews']
 ---
@@ -54,4 +54,4 @@ The Tempest was discussed in the paper where we dealt with the impact of the Wes
 
 Amiya Dev frequently went into lengthy digressions. He welcomed questions from students and would often spend entire classes addressing them.
 
-_(Last Updated 16th July, 2025)_
+_(Last updated on 16th July 2025)_
