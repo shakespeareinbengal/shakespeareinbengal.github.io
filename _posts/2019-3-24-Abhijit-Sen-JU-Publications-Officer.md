@@ -6,7 +6,6 @@ tags: []
 categories: ['pedagogy', 'pedagogy interviews']
 ---
 
-Sunday,24,2019
 
 *Sri Abhijit Sen is the JU Publications Officer and was interviewed by Sri Abhishek Sarkar.*
 
