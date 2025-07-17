@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Anima Biswas
-date: 24/3/2019
+title:  Anima Biswas
+date: 18/7/2025
 tags: []
-categories: ['performances', 'performance interviews']
+categories: ['pedagogy', 'pedagogy interviews']
 ---
 
 ***Prof. Anima Biswas***
