@@ -15,3 +15,5 @@ On *26 April 2022*, the Shakespeare in Bengal team interviewed Bengali theatre a
 The interview video can be viewed in full here [Click Here](https://www.youtube.com/watch?v=KnzZadwiqpM)
 
 For our coverage of the press conference conducted prior to the opening performance of Hamlet [Please Click Here]()
+
+**last Updated On, 17th July, 2025**
