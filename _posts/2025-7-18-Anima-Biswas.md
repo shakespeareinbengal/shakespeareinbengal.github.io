@@ -92,4 +92,4 @@ I don’t feel very optimistic about this. I could ask you, what is the necessit
 
 A slogan was raised at Burdwan, as there was some kind of problem at the degree level colleges of our university… **‘Shakespeare is unteachable’**… I do not know who started it, even our colleagues at the university started repeating it. I came from North Bengal University, and the teacher who taught Lear, and another teacher who taught Murder in the Cathedral pushed it onto me, as it was ‘unteachable’. So what is the reason? Teachers found Shakespeare unteachable, and students also shared the same view, I was just surprised. Fortunately, Shakespeare was retained, some texts were changed but one or two were removed, I think. Have you ever heard of the slogan? They wanted to change the idiom and the syntax by removing him. I am reminded of that as you ask this question.
 
-Last Updated on, 18th July, 2025
+*(Last Updated on 18th July 2025)*
