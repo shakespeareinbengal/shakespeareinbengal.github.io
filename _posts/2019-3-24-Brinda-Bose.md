@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Brinda Bose
-date: 19/7/2025
-tags:
+date: 24/3/2019
+tags: []
 categories: ['pedagogy', 'pedagogy interviews']
 ---
 
@@ -73,3 +73,5 @@ It’s fine to de-canonize Shakespeare. Canons need to be questioned. But the pl
 **How would you react to the phenomenon of reading Shakespeare in paraphrase or simplified form, now popular among students in the West?**
 
 There is no point in reading a paraphrase at college or university, just like reading the Charles and Mary Lamb version.
+
+*(Last updated on 19.7.25)*
