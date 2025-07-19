@@ -60,8 +60,6 @@ We had reference-to-the-context questions, and long answers where we were expect
 
 We saw some BCL productions. That was the time we got an idea of Kurosawa. The film society movement was also exploding then. No performances at Presidency.
 
-We saw some BCL productions. That was the time we got an idea of Kurosawa. The film society movement was also exploding then. No performances at Presidency.
-
 **Do you think that Shakespeare is an overrated author?**
 
 No, Shakespeare is not overrated. Well worth studying his plays. Very good as a pedagogical process in literary studies. Great way to enter the deeper end of literature. School and UG teaching of Shakespeare is really important to literary studies.
