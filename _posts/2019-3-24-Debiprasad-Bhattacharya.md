@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Debiprasad Bhattacharya
-date: 19/7/2025
+date: 24/3/2019
 tags: []
 categories: ['pedagogy', 'pedagogy interviews']
 ---
