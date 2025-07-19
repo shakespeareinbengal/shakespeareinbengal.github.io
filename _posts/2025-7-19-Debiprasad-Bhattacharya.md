@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Debiprasad Bhattacharya
-date: 24/3/2019
+date: 19/7/2025
 tags: []
-categories: ['performances', 'performance interviews']
+categories: ['pedagogy', 'pedagogy interviews']
 ---
 
 **Prof. Debiprasad Bhattacharya**
