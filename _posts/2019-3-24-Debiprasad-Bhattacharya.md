@@ -84,4 +84,4 @@ Shakespeare’s significance can never decrease. He is one of those timeless, cl
 
 This is not at all a healthy trend. If you have to read Shakespeare, you have to do it in the original.
 
-(Last updated on 19th July 2025)
+*(Last updated on 19th July 2025)*
