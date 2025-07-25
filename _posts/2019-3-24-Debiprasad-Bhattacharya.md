@@ -6,6 +6,8 @@ tags: []
 categories: ['pedagogy', 'pedagogy interviews']
 ---
 
+Sunday,24,2019
+
 **Prof. Debiprasad Bhattacharya**
 
 Formerly Kalyani University
@@ -18,11 +20,11 @@ B.A. – 1967 from Asutosh College. M.A. – 1969 from the University of Calcutt
 
 **College and university syllabi (Shakespeare plays and poems).**
 
-We had *Macbeth* and *As You Like It* at the undergraduate level. At the M.A. level, we were taught *Antony and Cleopatra*, *King Lear* and *Measure for Measure.*
+We had Macbeth and *As You Like It* at the undergraduate level. At the M.A. level, we were taught *Antony and Cleopatra*, King Lear and Measure for Measure.
 
 **Who taught the texts in question?**
 
-*Macbeth* was taught to us by Professor Jitendranath Chakraborty and *As You Like It* by Pranay RanjanSen. I remember them with absolute respect. At the M.A. level, I was taught by Krishna Chandra Lahiri, Jyoti Bhattacharya and Amalendu Bose. Amalendu-babu taught us *Antony and Cleopatra*, Jyoti-babu taught us *King Lear*. P. Lal [Professor Purushottam Lal] taught us *Measure for Measure* briefly as well. There was also P.C. Ghosh who taught us the non-detailed study section of the course on Shakespeare. We had *The Tempest* and *Merchant of Venice* in this section. I had also learned a great deal from Professor Dinesh Chandra Biswas of Jadavpur University. I would go to his home to study with him.
+Macbeth was taught to us by Professor Jitendranath Chakraborty and *As You Like It* by Pranay RanjanSen. I remember them with absolute respect. At the M.A. level, I was taught by Krishna Chandra Lahiri, Jyoti Bhattacharya and Amalendu Bose. Amalendu-babu taught us *Antony and Cleopatra*, Jyoti-babu taught us *King Lear*. P. Lal [Professor Purushottam Lal] taught us *Measure for Measure* briefly as well. There was also P.C. Ghosh who taught us the non-detailed study section of the course on Shakespeare. We had The Tempest and *Merchant of Venice* in this section. I had also learned a great deal from Professor Dinesh Chandra Biswas of Jadavpur University. I would go to his home to study with him.
 
 **What techniques were used (e.g., close reading, lecture demonstration, group discussion, seminars etc) for teaching Shakespeare?**
 
@@ -34,7 +36,7 @@ There was a prosody section, but I was very bad at it.
 
 **Did the teacher refer to literature in other languages while discussing Shakespeare? For example, would the teacher mention Dante, Kalidasa or Tagore while reading Shakespeare with the students?**
 
-Amalendu-babu would compare the tragedy of love in *Antony and Cleopatra* with Tagore and Kalidasa’s concept of love. It meant that the text-reading was a little neglected, but it created a literary atmosphere. Purushottam Lal compared the decadence in *Measure for Measure* with that in the *Mahabharata.*
+Amalendu-babu would compare the tragedy of love in *Antony and Cleopatra* with Tagore and Kalidasa’s concept of love. It meant that the text-reading was a little neglected, but it created a literary atmosphere. Purushottam Lal compared the decadence in *Measure for Measure* with that in the Mahabharata.
 
 **Were expletives and sexual references omitted?**
 
@@ -58,21 +60,21 @@ Essay type questions on character, plot, structure etc. There were also question
 
 **Did the teacher refer to stage and film productions of Shakespeare?**
 
-No, this was not the trend back then. I went to see a number of Shakespeare adaptations and films on my own, *Antony and Cleopatra* for example, but they were never recommended in class. In fact, I understood the fact that Iago has a strange kind of feeling for Desdemona, that there was a kind of sexual jealousy in operation, from seeing the *Othello* play and not from the classes.
+No, this was not the trend back then. I went to see a number of Shakespeare adaptations and films on my own, Antony and Cleopatra for example, but they were never recommended in class. In fact, I understood the fact that Iago has a strange kind of feeling for Desdemona, that there was a kind of sexual jealousy in operation, from seeing the Othello play and not from the classes.
 
-**Whether the text was related to performance conventions.**
+**Whether the text was related to performance conventions**.
 
 No, there was no discussion about theatre. We could tell this play was meant for the stage, but we were not told how it worked as theatre. Professor K.C. Lahiri spoke a little bit about the Globe theatre, stage directions etc., but not much. This was a long time ago.
 
-**Whether there was any performance of Shakespeare at the institution.**
+**Whether there was any performance of Shakespeare at the institution**.
 
 No. Maybe at Jadavpur University, but Calcutta University was always very conservative and textual in its approach. Professors still did theatre, for example Jyoti-babu and Shanta Mahalanobish. But the students were not really interested. Later on, this changed.
 
-**Did you see any other productions?**
+**Did you see any other productions**?
 
-I saw a number of Shakespeare adaptations. For example, Utpal Dutt’s adaptation of *A Midsummer Night’s Dream (Chaitali Raater Swapno)*. I had seen *Sher Afghan*, I remember. I saw *Othello* as well.
+I saw a number of Shakespeare adaptations. For example, Utpal Dutt’s adaptation of *A Midsummer Night’s Dream* *(Chaitali Raater Swapno)*. I had seen *Sher Afghan*, I remember. I saw *Othello* as well.
 
-**On teaching Shakespeare.**
+**On teaching Shakespeare**.
 
 I have taught in the Pass course, which necessarily meant that I make it very simple for, say, Bengali Honours students to understand. When I taught at Kalyani University, I never shied away from discussing the sexual aspects in a play, even if it made the students uncomfortable. It was, after all, a fact.
 
@@ -84,4 +86,4 @@ Shakespeare’s significance can never decrease. He is one of those timeless, cl
 
 This is not at all a healthy trend. If you have to read Shakespeare, you have to do it in the original.
 
-*(Last updated on 19th July 2025)*
+*(Last Updated on 26th July 2025)*
