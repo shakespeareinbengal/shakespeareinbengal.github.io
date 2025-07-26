@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Atreyi Basu
-date: 24/3/2019
+date: 26/7/2025
 tags: []
 categories: ['pedagogy', 'pedagogy interviews']
 ---
@@ -122,4 +122,4 @@ It’s more according to personal interpretation and more according to what Spiv
 
 I have taught *Julius Caesar*. I must tell you that we have various categories of students, and if I have taught Shakespeare I had to make Shakespeare accessible to all of them.
 
-*(Last Updated on 18th July 2025)*
+*(Last Updated on 25th July 2025)*
