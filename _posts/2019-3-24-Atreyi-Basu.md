@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Atreyi Basu
-date: 26/7/2025
+date: 24/3/2019
 tags: []
 categories: ['pedagogy', 'pedagogy interviews']
 ---
