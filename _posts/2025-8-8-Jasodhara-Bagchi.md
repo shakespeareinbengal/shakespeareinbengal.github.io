@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Jasodhara Bagchi
-date: 24/3/2019
+date: 8/8/2025
 tags: []
-categories: ['performances', 'performance interviews']
+categories: ['pedagogy', 'pedagogy interviews']
 ---
 
 Sunday,24,2019
